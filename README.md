@@ -1,4 +1,4 @@
-# ThreadRace
+# Thread race
 
    The point of this app is to visually represent the use of semaphores in multithreading to the students and anyone interested in how semaphores work. When the button start is pressed, if barriers(semaphores) are on, the cars will go to the barriers and wait for other cars to arrive. Only when all cars are in front of the barrier, the cars can go through. If barriers are off, cars will go around the track changing speed on start an finish line. All cars work with random calculation so that the speed of each car is different every time. 
 
